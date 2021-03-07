@@ -5,7 +5,7 @@
 垂钓仙	Fisher Immortal
 垂钓圣者	Fisher Saint
 垂钓翁	Fisher Elder
-战斗	Battle
+战斗	Batalha
 气感	Qi Sense
 处世	Social
 内视	Inner Sight
